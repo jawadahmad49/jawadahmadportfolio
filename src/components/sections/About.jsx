@@ -69,12 +69,11 @@ export const About = () => {
               <h3 className="text-xl font-bold mb-4"> 🏫 Education </h3>
               <ul className="list-disc list-inside text-gray-300 space-y-2">
                 <li>
-                  <strong> B.S. in Computer Science </strong> - XYZ University
-                  (2016-2020)
+                  <strong> B.S. in Computer Science </strong> - Abdul Wali Khan University Mardan
+                  (2020-2024)
                 </li>
                 <li>
-                  Relevant Coursework: Data Structures, Web Development, Cloud
-                  Computing...
+                  Relevant Coursework: Data Structures, Web Development, Programming Fundamental, Algorithms Design....
                 </li>
               </ul>
             </div>
@@ -84,11 +83,10 @@ export const About = () => {
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Software Engineer at ABC Corp (2020 - Present){" "}
+                    Software Engineer in my Home, LOL!(2024 - Present){" "}
                   </h4>
                   <p>
-                    Developed and maintained microservices for cloud-based
-                    applications.
+                    Developed and maintained different django, react, python based applications.
                   </p>
                 </div>
 
